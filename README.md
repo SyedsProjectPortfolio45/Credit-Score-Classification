@@ -1,6 +1,6 @@
 # Credit-Score-Classification📈📊
 
-#### Tools used🛠🔧⛏: Python, NumPy, Pandas, Machine Learning, Plotly
+#### Tools used🛠: Python, NumPy, Pandas, Machine Learning, Plotly
 🔗dataset link --> https://statso.io/credit-score-classification-case-study/
 
 # Description
