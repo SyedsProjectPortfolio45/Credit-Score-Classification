@@ -1,5 +1,7 @@
 # Credit-Score-Classification📈📊
 
+![dataset-cover](https://github.com/SyedsProjectPortfolio45/Credit-Score-Classification/assets/147240839/1be52b15-8d34-4bf4-895d-6a61a9521260)
+
 #### Tools used🛠: Python, NumPy, Pandas, Machine Learning, Plotly
 🔗dataset link --> https://statso.io/credit-score-classification-case-study/
 
@@ -23,3 +25,15 @@ A person with a good credit score will get loans from any bank and financial ins
 - Created a Credit Mix column categorically by transforming it into numerical feature so that we can use it to train a Machine Learning model for the task of credit score classification
 - Split the data into training and test sets and proceed further by training a credit score classification model using **RandomForestClassifier**
 - Now, let’s make predictions from our model by giving inputs to our model according to the features we used to train the model
+
+# Output
+![Screenshot (2434)](https://github.com/SyedsProjectPortfolio45/Credit-Score-Classification/assets/147240839/f95958de-ad1b-4ad6-80f2-76754264afd2)
+
+
+
+
+
+
+
+
+
