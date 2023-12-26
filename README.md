@@ -5,7 +5,7 @@
 #### Tools used🛠: Python, NumPy, Pandas, Machine Learning, Plotly
 🔗dataset link --> https://statso.io/credit-score-classification-case-study/
 
-## 🚧You see the detailed code with visualizations by clicking on the Google Colab logo when you open the ipynb file
+## 🚧You can see the detailed code with visualizations by clicking on the Google Colab logo when you open the ipynb file
 
 # Description
 Banks and credit card companies calculate your credit score to determine your creditworthiness. It helps banks and credit card companies immediately to issue loans to customers with good creditworthiness. Today banks and credit card companies use Machine Learning algorithms to classify all the customers in their database based on their credit history.
